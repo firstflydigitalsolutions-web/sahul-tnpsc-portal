@@ -1,8 +1,10 @@
-const CACHE_NAME = 'sahul-tnpsc-v2';
+const CACHE_NAME = 'sahul-tnpsc-v3';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
   '/manifest.json',
+  '/favicon.svg',
+  '/icons.svg',
   '/assets/logo.png',
   '/assets/tnpsc_hero.png'
 ];
